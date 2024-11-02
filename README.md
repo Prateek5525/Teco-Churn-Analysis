@@ -9,9 +9,8 @@ This repository contains an analysis of customer churn patterns for Teco, a tele
 - [Project Overview](#project-overview)
 - [Data Insights](#data-insights)
 - [Dashboard](#dashboard)
-- [Installation and Setup](#installation-and-setup)
-- [Usage](#usage)
 - [Key Findings and Recommendations](#key-findings-and-recommendations)
+- [Installation and Setup](#installation-and-setup)
 - [License](#license)
 
 ## Project Overview
@@ -79,4 +78,8 @@ A comprehensive PDF dashboard is included, which visualizes these insights and p
 3. **Run the Jupyter Notebook**:
    ```bash
    jupyter notebook TCA.ipynb
-   
+
+## License   
+**This project is licensed under the MIT License.**
+---
+Save this as `README.md` in the root directory of your GitHub repository. Let me know if any additional modifications are needed!
