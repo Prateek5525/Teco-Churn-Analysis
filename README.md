@@ -70,7 +70,7 @@ A comprehensive PDF dashboard is included, which visualizes these insights and p
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/username/Teco-Customer-Churn-Analysis.git
+   git clone https://github.com/Prateek5525/Teco-Customer-Churn-Analysis.git
    cd Teco-Customer-Churn-Analysis
 2. **Install dependencies**:
    ```bash
@@ -82,4 +82,3 @@ A comprehensive PDF dashboard is included, which visualizes these insights and p
 ## License   
 **This project is licensed under the MIT License.**
 ---
-Save this as `README.md` in the root directory of your GitHub repository. Let me know if any additional modifications are needed!
